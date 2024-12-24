@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qq/AA.md",
+                "file": "areticles/firstPage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AA"
+              "title": "firstPage"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qq/AA.md",
+                "file": "areticles/firstPage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AA"
+              "title": "Backlinks for firstPage"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qq/AA.md",
+                "file": "areticles/firstPage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AA"
+              "title": "Outgoing links from firstPage"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qq/AA.md"
+                "file": "areticles/firstPage.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AA"
+              "title": "Outline of firstPage"
             }
           }
         ]
@@ -164,8 +164,13 @@
   },
   "active": "e00a2a1fc00e368c",
   "lastOpenFiles": [
+    "areticles/Boo.md",
+    "areticles/firstPage.md",
+    "areticles/info.md",
+    "areticles/img/Github_retrowave.png",
+    "areticles/img/retroWave.md",
+    "areticles/img",
     "README.md",
-    "qq/AA.md",
-    "qq"
+    "areticles"
   ]
 }

@@ -15,7 +15,7 @@ return 0;
 }
 ```
 
-[HUI](QQ.md)
+[HU](info.md)
 
 ![alt text](img/Github_retrowave.png)
 
