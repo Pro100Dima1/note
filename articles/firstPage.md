@@ -17,7 +17,7 @@ return 0;
 
 [HU](info.md)
 
-![alt text](img/Github_retrowave.png)
+![alt text](Github_retrowave.png)
 
 | Syntax    | Description |     |     |     |
 | --------- | ----------- | --- | --- | --- |
