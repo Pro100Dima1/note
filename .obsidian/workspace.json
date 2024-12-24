@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "articles/firstPage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "firstPage"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "articles/firstPage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for firstPage"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "articles/firstPage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from firstPage"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "articles/firstPage.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of firstPage"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "e00a2a1fc00e368c",
   "lastOpenFiles": [
-    "articles.md",
     "README.md",
+    "articles.md",
     "articles/firstPage.md",
     "articles/Boo.md",
     "articles/info.md",
